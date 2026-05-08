@@ -1,5 +1,5 @@
 # Script para obtener de forma sencilla las cotizaciones del día del BCP
-#### El script se actualiza de forma automática cada 10 minutos
+#### El script se actualiza de forma automática cada 10 minutos y guarda en cache.
 ## 1. Clonar repositorio
 
 ```bash
