@@ -1,0 +1,165 @@
+{
+  "success": true,
+  "source": "BCP",
+  "updated_at": "2026-05-08T17:07:28.748428",
+  "total": 26,
+  "Observaciones": "ME/USD → Moneda Extranjera por Dólar Estadounidense →→ Gs/ME o Gs ME → Guaraníes por Moneda Extranjera",
+  "data": [
+    {
+      "moneda": "DÓLAR ESTADOUNIDENSE",
+      "abreviatura": "USD",
+      "valorME_USD": "1,0000",
+      "vvalorGs_ME": "6.159,41"
+    },
+    {
+      "moneda": "YEN JAPONÉS",
+      "abreviatura": "JPY",
+      "valorME_USD": "156,6300",
+      "vvalorGs_ME": "39,32"
+    },
+    {
+      "moneda": "LIBRA ESTERLINA\n                                \n                                                                    *",
+      "abreviatura": "GBP",
+      "valorME_USD": "1,3623",
+      "vvalorGs_ME": "8.390,96"
+    },
+    {
+      "moneda": "FRANCO SUIZO",
+      "abreviatura": "CHF",
+      "valorME_USD": "0,7776",
+      "vvalorGs_ME": "7.921,05"
+    },
+    {
+      "moneda": "CORONA SUECA",
+      "abreviatura": "SEK",
+      "valorME_USD": "9,2214",
+      "vvalorGs_ME": "667,95"
+    },
+    {
+      "moneda": "CORONA DANESA",
+      "abreviatura": "DKK",
+      "valorME_USD": "6,3481",
+      "vvalorGs_ME": "970,28"
+    },
+    {
+      "moneda": "CORONA NORUEGA",
+      "abreviatura": "NOK",
+      "valorME_USD": "9,2177",
+      "vvalorGs_ME": "668,22"
+    },
+    {
+      "moneda": "REAL BRASILEÑO",
+      "abreviatura": "BRL",
+      "valorME_USD": "4,8947",
+      "vvalorGs_ME": "1.258,38"
+    },
+    {
+      "moneda": "PESO ARGENTINO",
+      "abreviatura": "ARS",
+      "valorME_USD": "1.391,5000",
+      "vvalorGs_ME": "4,43"
+    },
+    {
+      "moneda": "DÓLAR CANADIENSE",
+      "abreviatura": "CAD",
+      "valorME_USD": "1,3690",
+      "vvalorGs_ME": "4.499,20"
+    },
+    {
+      "moneda": "RAND SUDAFRICANO",
+      "abreviatura": "ZAR",
+      "valorME_USD": "16,4055",
+      "vvalorGs_ME": "375,45"
+    },
+    {
+      "moneda": "DERECHOS ESPECIALES DE GIRO (FMI)",
+      "abreviatura": "XDR",
+      "valorME_USD": "1,3753",
+      "vvalorGs_ME": "8.471,04"
+    },
+    {
+      "moneda": "ONZA DE ORO\n                                \n                                                                    *",
+      "abreviatura": "XAU",
+      "valorME_USD": "4.707,4400",
+      "vvalorGs_ME": "28.995.053,01"
+    },
+    {
+      "moneda": "PESO CHILENO",
+      "abreviatura": "CLP",
+      "valorME_USD": "892,6600",
+      "vvalorGs_ME": "6,90"
+    },
+    {
+      "moneda": "EURO\n                                \n                                                                    *",
+      "abreviatura": "EUR",
+      "valorME_USD": "1,1771",
+      "vvalorGs_ME": "7.250,24"
+    },
+    {
+      "moneda": "PESO URUGUAYO",
+      "abreviatura": "UYU",
+      "valorME_USD": "39,7000",
+      "vvalorGs_ME": "155,15"
+    },
+    {
+      "moneda": "DÓLAR AUSTRALIANO\n                                \n                                                                    *",
+      "abreviatura": "AUD",
+      "valorME_USD": "0,7242",
+      "vvalorGs_ME": "4.460,64"
+    },
+    {
+      "moneda": "YUAN RENMINBI DE CHINA",
+      "abreviatura": "CNY",
+      "valorME_USD": "6,8007",
+      "vvalorGs_ME": "905,70"
+    },
+    {
+      "moneda": "DÓLAR DE SINGAPUR",
+      "abreviatura": "SGD",
+      "valorME_USD": "1,2673",
+      "vvalorGs_ME": "4.860,26"
+    },
+    {
+      "moneda": "BOLIVIANO",
+      "abreviatura": "BOB",
+      "valorME_USD": "6,8534",
+      "vvalorGs_ME": "898,74"
+    },
+    {
+      "moneda": "SOL PERUANO",
+      "abreviatura": "PEN",
+      "valorME_USD": "3,4411",
+      "vvalorGs_ME": "1.789,95"
+    },
+    {
+      "moneda": "DÓLAR NEOZELANDÉS",
+      "abreviatura": "NZD",
+      "valorME_USD": "0,5957",
+      "vvalorGs_ME": "3.669,16"
+    },
+    {
+      "moneda": "PESO MEXICANO",
+      "abreviatura": "MXN",
+      "valorME_USD": "17,2103",
+      "vvalorGs_ME": "357,89"
+    },
+    {
+      "moneda": "PESO COLOMBIANO",
+      "abreviatura": "COP",
+      "valorME_USD": "3.755,1300",
+      "vvalorGs_ME": "1,64"
+    },
+    {
+      "moneda": "DÓLAR TAIWANÉS",
+      "abreviatura": "TWD",
+      "valorME_USD": "31,4050",
+      "vvalorGs_ME": "196,13"
+    },
+    {
+      "moneda": "DIRHAM DE LOS EMIRATOS ÁRABES UNIDOS",
+      "abreviatura": "AED",
+      "valorME_USD": "3,6730",
+      "vvalorGs_ME": "1.676,94"
+    }
+  ]
+}
